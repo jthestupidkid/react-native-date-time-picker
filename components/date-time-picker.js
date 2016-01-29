@@ -146,13 +146,13 @@ export default class DateTimePicker extends Component {
         flexDirection: 'row',
         alignItems: 'center',
         justifyContent: 'center',
-        minHeight: 153,
+        minHeight: 224,
       }}
       >
         <WheelView
           style={{
             width: 150,
-            height: 153,
+            height: 224,
           }}
           onItemChange={this.onDateChange.bind(this)}
           values={dateStrings}
@@ -163,7 +163,7 @@ export default class DateTimePicker extends Component {
         <WheelView
           style={{
             width: 50,
-            height: 153,
+            height: 224,
           }}
           onItemChange={this.onHourChange.bind(this)}
           values={hours}
@@ -174,7 +174,7 @@ export default class DateTimePicker extends Component {
         <WheelView
           style={{
             width: 50,
-            height: 153,
+            height: 224,
           }}
           onItemChange={this.onMinuteChange.bind(this)}
           values={minutes}
@@ -185,7 +185,7 @@ export default class DateTimePicker extends Component {
         <WheelView
           style={{
             width: 50,
-            height: 153,
+            height: 224,
           }}
           onItemChange={this.onAmpmChange.bind(this)}
           values={ampm}

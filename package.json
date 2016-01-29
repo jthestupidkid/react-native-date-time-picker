@@ -1,22 +1,74 @@
 {
-  "name": "react-native-date-time-picker",
-  "version": "0.0.3",
+  "_args": [
+    [
+      "react-native-date-time-picker",
+      "/Users/jjrugalino/Desktop/dev/sideline"
+    ]
+  ],
+  "_from": "react-native-date-time-picker@*",
+  "_id": "react-native-date-time-picker@0.0.3",
+  "_inCache": true,
+  "_location": "/react-native-date-time-picker",
+  "_nodeVersion": "5.2.0",
+  "_npmUser": {
+    "email": "i.madwed@gmail.com",
+    "name": "madwed"
+  },
+  "_npmVersion": "2.14.14",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-date-time-picker",
+    "raw": "react-native-date-time-picker",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-date-time-picker/-/react-native-date-time-picker-0.0.3.tgz",
+  "_shasum": "14ebf9a921eb9effa0e302b284ba40bc93fdd0aa",
+  "_shrinkwrap": null,
+  "_spec": "react-native-date-time-picker",
+  "_where": "/Users/jjrugalino/Desktop/dev/sideline",
+  "author": {
+    "email": "i.madwed@gmail.com",
+    "name": "Isaac Madwed",
+    "url": "https://github.com/madwed"
+  },
+  "dependencies": {
+    "react-native-wheel": "github:fixt/react-native-wheel"
+  },
   "description": "A Date and Time picker for Android more in the iOS selector style.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "14ebf9a921eb9effa0e302b284ba40bc93fdd0aa",
+    "tarball": "http://registry.npmjs.org/react-native-date-time-picker/-/react-native-date-time-picker-0.0.3.tgz"
+  },
+  "gitHead": "03e068e2332ba5bdbcf614039e02af944cc78683",
+  "installable": true,
+  "keywords": [
+    "Android",
+    "Date",
+    "Date-Time",
+    "Picker",
+    "React-Native",
+    "Time"
+  ],
+  "license": "ISC",
   "main": "index",
+  "maintainers": [
+    {
+      "name": "madwed",
+      "email": "i.madwed@gmail.com"
+    }
+  ],
+  "name": "react-native-date-time-picker",
+  "optionalDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "React-Native",
-    "Android",
-    "Date",
-    "Time",
-    "Date-Time",
-    "Picker"
-  ],
-  "author": "Isaac Madwed <i.madwed@gmail.com> (https://github.com/madwed)",
-  "license": "ISC",
-  "dependencies": {
-    "react-native-wheel": "jthestupidkid/react-native-wheel"
-  }
+  "version": "0.0.3"
 }
